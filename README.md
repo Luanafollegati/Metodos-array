@@ -20,3 +20,6 @@ Para cada elemento do Array adiciona um separador
 
 ## Método slice
 Separa o Array conforme os indices
+
+## Método splice
+Remove ou subtitui elementos do Array conforme os indices
