@@ -1,19 +1,22 @@
 # Aulas com exemplo de métodos Array
 
-## Metodo Push
+## Método Push
 Adiciona elementos ao final do Array
 
-## Metodo pop
+## Método pop
 Remove o ultimo elemento do Array
 
-## Metodo pop 
+## Método pop 
 Remove o primeiro elemento do Array
 
-## Metodo unshift
+## Método unshift
 Adiciona elementos no inicio do Array
 
-## Metodo includes
+## Método includes
 Busca valores exatos no Array
 
-## Metodo join
+## Método join
 Para cada elemento do Array adiciona um separador
+
+## Método slice
+Separa o Array conforme os indices
