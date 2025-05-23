@@ -7,4 +7,7 @@ Adiciona elementos ao final do Array
 Remove o ultimo elemento do Array
 
 ## Metodo pop 
-Remove o primeiro elemento do array
+Remove o primeiro elemento do Array
+
+## Metodo unshift
+Adiciona elementos no inicio do Array
