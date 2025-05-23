@@ -1,0 +1,13 @@
+let playlist = ["funk", "hip-hop", "pop"];
+
+console.log("antes do pop");
+console.table(playlist);
+
+// removendo o ultimo estilo
+let estiloRemovido = playlist.pop();
+
+console.log("depois do pop");
+console.table(playlist);  
+
+console.log("estilo removido: ", estiloRemovido);
+

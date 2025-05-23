@@ -1,4 +1,7 @@
 # Aulas com exemplo de métodos Array
 
-# Metodo Push
-Adicioma elementos ao final do array
+## Metodo Push
+Adiciona elementos ao final do Array
+
+## Metodo pop
+Remove o ultimo elemento do Array
