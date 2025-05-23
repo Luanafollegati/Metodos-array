@@ -5,3 +5,6 @@ Adiciona elementos ao final do Array
 
 ## Metodo pop
 Remove o ultimo elemento do Array
+
+## Metodo pop 
+Remove o primeiro elemento do array
