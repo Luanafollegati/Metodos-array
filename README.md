@@ -13,4 +13,4 @@ Remove o primeiro elemento do Array
 Adiciona elementos no inicio do Array
 
 ## Metodo includes
-busca valores exatos no Array
+Busca valores exatos no Array
